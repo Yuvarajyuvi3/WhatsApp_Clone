@@ -1,0 +1,113 @@
+{
+"profile" : [
+    {
+        "id" : 1,
+        "name" : "Yuva",
+        "image" : "/assets/yuva.jpeg",
+        "date" : "04/09/2025",
+        "chat" : "welcome",
+        "time" : "today at 09:00am"
+    },
+    {
+        "id" : 2,
+        "name" : "Leo",
+        "image" : "/public/assets/Virat_kohli.jpg",
+        "date" : "10/11/2025",
+        "chat" : "Hai",
+        "time" : "today at 07:30am"
+    },
+    {
+        "id" : 3,
+        "name" : "Mervin",
+        "image" : "/public/assets/vijayimage.jpeg",
+        "date" : "07/07/2025",
+        "chat" : "Enna da panra",
+        "time" : "today at 12:00am"
+    },
+    {
+        "id" : 4,
+        "name" : "Appa",
+        "image" : "/public/assets/madha image.jpg",
+        "date" : "07/11/2025",
+        "chat" : "welcome",
+        "time" : "today at 06:00am"
+    },
+    {
+        "id" : 5,
+        "name" : "Amma",
+        "image" : "/public/assets/madhaimage1.jpg",
+        "date" : "10/10/2025",
+        "chat" : "welcome",
+        "time" : "today at 09:40am"
+    },
+    {
+        "id" : 6,
+        "name" : "Sudhar Anna",
+        "image" : "/public/assets/vijay image.webp",
+        "date" : "10/11/2025",
+        "chat" : "welcome",
+        "time" : "today at 10:40am"
+    },
+    {
+        "id" : 7,
+        "name" : "Surya Anna",
+        "image" : "/public/assets/surya image.jpg",
+        "date" : "11/11/2025",
+        "chat" : "welcome",
+        "time" : "today at 08:00am"
+    },
+    {
+        "id" : 8,
+        "name" : "Nelson",
+        "image" : "/public/assets/jesus image.avif",
+        "date" : "13/11/2025",
+        "chat" : "welcome",
+        "time" : "today at 09:30am"
+    }
+],
+
+"status" : [
+    {
+        "id" : 101,
+        "name" : "Leo",
+        "image" : "/public/assets/Virat_kohli.jpg",
+        "time" : "today at 07:30am"
+    },
+    {
+        "id" : 102,
+        "name" : "Mervin",
+        "image" : "/public/assets/vijayimage.jpeg",
+        "time" : "today at 12:00am"
+    },
+    {
+        "id" : 103,
+        "name" : "Appa",
+        "image" : "/public/assets/madha image.jpg",
+        "time" : "today at 06:00am"
+    },
+    {
+        "id" : 104,
+        "name" : "Amma",
+        "image" : "/public/assets/madhaimage1.jpg",
+        "time" : "today at 09:40am"
+    },
+    {
+        "id" : 105,
+        "name" : "Sudhar Anna",
+        "image" : "/public/assets/vijay image.webp",
+        "time" : "today at 10:40am"
+    },
+    {
+        "id" : 106,
+        "name" : "Surya Anna",
+        "image" : "/public/assets/surya image.jpg",
+        "time" : "today at 08:00am"
+    },
+    {
+        "id" : 107,
+        "name" : "Nelson",
+        "image" : "/public/assets/jesus image.avif",
+        "time" : "today at 09:30am"
+    }
+]
+}

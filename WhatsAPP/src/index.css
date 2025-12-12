@@ -1,0 +1,300 @@
+* {
+  font-family: sans-serif;
+  color: white;
+  background-color: rgb(36, 35, 35);
+  margin: 0px;
+  padding: 0px;
+}
+
+.pad {
+  cursor: pointer;
+  text-align: center;
+  margin: 0px 25px;
+}
+
+.w-30 {
+  width: 550px;
+  height: 100vh;
+  border-right: 1px solid rgb(58, 58, 51);
+}
+
+.w-55 {
+  width: 70%;
+}
+
+.logo {
+  font-size: 25px;
+  padding: 15px;
+}
+
+.input {
+  width: 95%;
+  height: 30px;
+  border-radius: 20px;
+  padding: 18px;
+  margin: auto;
+  background: rgb(58, 56, 56);
+}
+
+.input:focus {
+  border: 5px solid rgb(56, 202, 56);
+}
+
+.button {
+  border-radius: 20px;
+  border-color: transparent;
+}
+
+.button:hover {
+  background-color: #2e911a;
+}
+
+.chats {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  text-align: center;
+  height: 100vh;
+  width: 70%;
+  margin: auto;
+}
+
+.chats img {
+  width: 500px;
+}
+
+.bttn {
+  border-color: transparent;
+  border-radius: 20px;
+  background-color: green;
+  height: 40px;
+  width: 120px;
+}
+
+.image {
+  width: 63px;
+  height: 53px;
+  border-radius: 50%;
+}
+
+.name {
+  padding: 10px;
+}
+
+.name1 {
+  display: flex;
+  gap: 15px;
+  padding: 10px;
+  cursor: pointer;
+}
+
+.name2 {
+  font-size: 18px;
+  display: flex;
+  width: 100%;
+  justify-content: space-between;
+}
+
+.date {
+  font-size: 13px;
+}
+
+.profile1 {
+  width: 35%;
+  height: 100vh;
+  border-right: 2px solid rgb(66, 56, 56);
+}
+
+.profile1 h2 {
+  padding: 20px;
+}
+
+.profile1 img {
+  width: 200px;
+  height: 200px;
+  border-radius: 50%;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  margin: auto;
+  padding: 25px;
+}
+
+.names {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  padding: 50px;
+}
+
+.profile {
+  display: flex;
+  margin-left: 5%;
+}
+
+.profile2 {
+  width: 60%;
+  height: 100vh;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  margin: auto;
+  position: fixed;
+  left: 45%;
+}
+
+.names1 {
+  width: 100%;
+}
+
+.profile2 img {
+  width: 200px;
+  padding: 30px;
+}
+
+.names1 h5 {
+  display: flex;
+  justify-content: space-between;
+  margin-top: 10px;
+}
+
+.names1 p {
+  margin-top: 40px;
+}
+
+.chat {
+  width: 50%;
+  height: 100vh;
+  margin: auto;
+  border: 2px solid black;
+}
+
+.nav {
+  width: 100%;
+  height: 50px;
+  display: flex;
+  justify-content: space-between;
+  border: 2px solid black;
+}
+
+.nav img {
+  width: 50px;
+  height: 50px;
+}
+
+.logo {
+  padding: 0px;
+  display: flex;
+  gap: 50px;
+  margin-top: 5px;
+}
+
+.hai {
+  margin-left: 65%;
+  background-color: #17550a;
+  padding: 1px;
+  text-align: right;
+  border-radius: 50px;
+}
+
+.hai1 {
+  background-color: rgb(53, 4, 4);
+  margin-right: 70%;
+  border-radius: 50px;
+  padding: 1px;
+}
+
+.chat1 {
+  padding-top: 5%;
+}
+
+.status {
+  width: 35%;
+  height: 100vh;
+  margin-left: 6%;
+  border-right: 2px solid rgb(61, 61, 50);
+}
+
+.header {
+  display: flex;
+  justify-content: space-between;
+  font-size: 20px;
+  padding: 10px;
+}
+
+.more {
+  display: flex;
+  gap: 30px;
+}
+
+.mystatus {
+  display: flex;
+  gap: 10px;
+  padding: 3%;
+  width: 100%;
+}
+
+.mystatus img {
+  width: 50px;
+  height: 50px;
+  border-radius: 50%;
+}
+
+.status2 img {
+  width: 50px;
+  height: 50px;
+  border-radius: 50%;
+  border: 3px solid green;
+}
+.status1{
+  padding: 1px;
+}
+
+.status2 {
+  display: flex;
+  padding: 10px;
+  gap: 10px;
+  cursor: pointer;
+}
+
+.top {
+  margin-top: 40px;
+}
+
+.time {
+  font-size: 11px;
+}
+
+.statuslogo {
+  display: flex;
+}
+
+.searchs {
+  width: 100%;
+  position: fixed;
+  bottom: 10px;
+  display: flex;
+}
+
+.searchs input {
+  width: 43%;
+  height: 40px;
+  display: flex;
+  border: 2px solid rgb(156, 154, 151);
+  border-radius: 20px;
+  padding: 10px;
+}
+
+.searchs img {
+  width: 50px;
+  height: 50px;
+  cursor: pointer;
+}
+
+.searchs input:focus {
+  border: 5px solid rgb(20, 141, 20);
+}
